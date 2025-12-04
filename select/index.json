@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ピポパポ",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2025-12-04T13:15:49.431921Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピポパポ",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_ピポパポ_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
